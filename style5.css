@@ -1,0 +1,148 @@
+
+
+  div.big {
+    position: absolute;
+    padding: 15px;
+    background-color: white;
+    border-radius: 100%;
+    margin-left: 0px;
+  }
+  
+  div.small {
+    position: absolute;
+    padding: 8px;
+    background-color: rgb(80, 103, 235);
+    border-style: groove;
+    border-color:white;
+    border-radius: 100%;
+    margin-left: 35px;
+    margin-top:5px;
+  }
+
+  /* zero*/
+
+  .zero{
+     color: white;
+     margin-top:60px;
+     margin-left:50px
+
+  }
+
+  .jan{
+   margin-right: 200px;
+   margin-top: 40px;
+   margin-right: 0px;
+   color: white;
+ }
+
+ .date{
+    margin-top:-40px;
+    margin-left: 250px;
+    color: white;
+
+ }
+
+  .d{
+    position: absolute;
+     width: 280px;
+     height: 130px;
+     padding: 20px;
+     background-color:rgb(9, 21, 99);
+     margin:120px 200px -100px 103px;
+     border-radius: 15px;
+     background-image:linear-gradient(to right,blue , rgb(215, 23, 135));
+     
+     
+
+}
+
+/* end of card 1 */
+.e{
+    position: absolute;
+    width: 280px;
+    height: 130px;
+    padding: 20px;
+    background-color:rgb(210, 212, 225);
+    margin-left: 160px;
+    margin-top: 327px;
+    border-radius: 15px;
+    border-color: black;
+
+
+}
+.black{
+    background-color: black;
+    padding: 15px;
+    margin: 5px -20px 10px -20px;
+}
+
+.grey{
+    background-color: rgb(107, 110, 112);
+    padding: 15px;
+    margin:0px 20px 20px  10px;
+}
+.f{
+    margin-left: 230px;
+    margin-top: -45px;
+}
+
+ /* end of card 2 */
+
+
+.parent{
+    display: flex;
+  }
+  .childa{
+    position: relative;
+    background-color: rgb(25, 3, 46);
+    width: 301px;
+    height: 711px;
+    margin-top: 0px;
+  }
+
+
+  .childb{
+    background-color: white;
+    width: 5px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 80px;
+  }
+
+  .p{
+    display: inline;
+  }
+  .q{
+    display: flex;
+    margin-left: 175px;
+    margin-top:-20px;
+  }
+  .r{
+  
+    margin-left: 367px;
+    margin-top:15px;
+  }
+  .s{
+    display: flex;
+    margin-left: 367px;
+    margin-top:-56px;
+
+  }
+
+  .A{
+    margin-left: 3px;
+    width: 600px;
+    display: inline;
+    display:flex;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.B{
+
+  background-color:rgb(44, 3, 44); 
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+  margin-left: 200px;
+}
